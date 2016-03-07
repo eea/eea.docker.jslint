@@ -4,7 +4,8 @@
 
 ## Supported tags and respective `Dockerfile` links
 
-- [`0.9.6`, `latest` (*0.9.6/Dockerfile*)](https://github.com/eea/eea.docker.jslint/blob/master/Dockerfile)
+- [`latest` (*Dockerfile*)](https://github.com/eea/eea.docker.jslint/blob/master/Dockerfile)
+- [`0.9.6` (*Dockerfile*)](https://github.com/eea/eea.docker.jslint/blob/0.9.6/Dockerfile)
 
 ## Usage
 
